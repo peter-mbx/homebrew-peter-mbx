@@ -3,8 +3,8 @@ class Clavus < Formula
   homepage "https://github.com/peter-mbx/clavus"
 
   url "https://github.com/peter-mbx/clavus.git",
-      tag:      "0.0.1",
-      revision: "3d7e77f3cab1118b7e30c88a3ebb55e9c966a26e"
+      tag:      "1.0.0",
+      revision: "1b4e8076aef379d884737a33179ad26d35e5b76f"
 
   license "MIT"
   depends_on "rust" => :build
